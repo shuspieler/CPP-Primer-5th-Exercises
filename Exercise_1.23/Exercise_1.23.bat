@@ -1,0 +1,1 @@
+Exercise_1.23.exe <Exercise_1.23.in> Exercise_1.23.out
