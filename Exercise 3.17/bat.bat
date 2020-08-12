@@ -1,0 +1,1 @@
+Exercise.exe <inputs.txt>outputs.txt
