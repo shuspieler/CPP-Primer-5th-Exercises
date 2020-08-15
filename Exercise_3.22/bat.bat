@@ -1,0 +1,1 @@
+Exercise_3.22.exe <inputs.txt>outputs.txt
