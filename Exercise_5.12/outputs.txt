@@ -1,0 +1,8 @@
+Number of vowel a: 	3926
+Number of vowel e: 	6721
+Number of vowel i: 	2778
+Number of vowel o: 	3574
+Number of vowel u: 	1183
+Number of ff: 36
+Number of fl: 101
+Number of fi: 91

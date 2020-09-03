@@ -1,0 +1,2 @@
+maxString: had
+maxCnt: 2

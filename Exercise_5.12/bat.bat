@@ -1,0 +1,1 @@
+Exercise_5.12.exe <inputs.txt>outputs.txt

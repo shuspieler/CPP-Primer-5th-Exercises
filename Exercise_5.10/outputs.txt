@@ -1,0 +1,5 @@
+Number of vowel a: 	4008
+Number of vowel e: 	6758
+Number of vowel i: 	2941
+Number of vowel o: 	3627
+Number of vowel u: 	1188

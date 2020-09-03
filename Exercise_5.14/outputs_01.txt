@@ -1,0 +1,2 @@
+maxString: now
+maxCnt: 3
