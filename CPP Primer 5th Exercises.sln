@@ -241,7 +241,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise_6.44", "Exercise_6
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise_6.47", "Exercise_6.47\Exercise_6.47.vcxproj", "{5016C7C5-0275-427D-9AEC-2E5DDE772299}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ecercise_6.56", "Ecercise_6.56\Ecercise_6.56.vcxproj", "{BD667A29-8E3C-4951-862C-B920519E4909}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise_6.56", "Exercise_6.56\Exercise_6.56.vcxproj", "{BD667A29-8E3C-4951-862C-B920519E4909}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
