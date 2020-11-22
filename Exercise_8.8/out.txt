@@ -1,0 +1,4 @@
+bookNo: A12345678 units_sold: 54 revenue: 4.9
+bookNo: 771451257 units_sold: 39 revenue: 5
+bookNo: A12345678 units_sold: 54 revenue: 4.9
+bookNo: 771451257 units_sold: 39 revenue: 5
